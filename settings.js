@@ -12,10 +12,10 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoread = true // auto read pesan / message
+global.autorecording = false //status auto merekam ( auto record )
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 
 // Other
 global.botname = "Orang Titisan Yesus" //namabot kalian
